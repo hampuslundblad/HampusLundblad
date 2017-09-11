@@ -1,2 +1,4 @@
-# LAB2
-LAB2
+# README
+Vet ej vad jag ska skriva här
+Men vi har iaf en README
+coolt
